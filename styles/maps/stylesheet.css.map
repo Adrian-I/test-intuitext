@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylesheet.scss"],"names":[],"mappings":"AAAA,MACE,kBACA,gBACA,aAAc,CAHhB,sBAMI,oBAAqB,CACtB","file":"../stylesheet.css","sourcesContent":[".list {\r\n  text-align: center;\r\n  max-width: 500px;\r\n  margin: 0 auto;\r\n\r\n  .list__contents {\r\n    display: inline-block;\r\n  }\r\n}"]}
